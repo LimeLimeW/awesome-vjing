@@ -9,6 +9,17 @@
 - [Software](#software)
 - [Hardware](#hardware)
 
+## Resources
+
+This section contains various resources on learning to create and generate visuals.
+### Readings
+- [The Book of Shaders](https://thebookofshaders.com/)
+- [After Effects tutorials by Adobe](https://helpx.adobe.com/after-effects/tutorials.html)
+- [Max (Jitter) Documentation and tutorials by Cycling '74](https://docs.cycling74.com/max8/tutorials/jitindex)
+
+### Communities & Blogs
+- [Le Collagiste (FR)](https://blog.lecollagiste.com/)
+- [Scanlines](https://scanlines.xyz/)
 
 
 ## Software
@@ -35,14 +46,6 @@
 - [openFrameworks](http://example.com)
 - [Processing](https://processing.org/)
 - [vvvv](https://vvvv.org/)
-
-## Resources
-
-This section contains various resources on learning to create and generate visuals.
-
-- [The Book of Shaders](https://thebookofshaders.com/)
-- [After Effects tutorials by Adobe](https://helpx.adobe.com/after-effects/tutorials.html)
-- [Max (Jitter) Documentation and tutorials by Cycling '74](https://docs.cycling74.com/max8/tutorials/jitindex)
 
 
 ## Contribute
