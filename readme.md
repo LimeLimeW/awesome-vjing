@@ -20,11 +20,21 @@
 - [Cavalry](https://cavalry.scenegroup.co/)
 - [Adobe After Effects](https://www.adobe.com/products/aftereffects.html)
 
+### VJing software
+- [Resolume (Avenue & Arena)](https://resolume.com/)
+- [VDMX](https://vidvox.net/)
+- [Modul8](http://www.garagecube.com/modul8/)
+- [Arkaos Grand VJ](https://www.arkaos.com/)
+- [CoGe VJ](https://imimot.com/cogevj/)
+- [Synesthesia](https://synesthesia.live/)
+- [Millumin](https://www.millumin.com/v3/)
 
 ### Programming languages & frameworks
 
 - [Max (Jitter)](https://cycling74.com/products/max)
 - [openFrameworks](http://example.com)
+- [Processing](https://processing.org/)
+- [vvvv](https://vvvv.org/)
 
 ## Resources
 
