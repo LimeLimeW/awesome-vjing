@@ -16,13 +16,18 @@ This section contains various resources on learning to create and generate visua
 ### Readings
 - [The Book of Shaders](https://thebookofshaders.com/)
 - [After Effects tutorials by Adobe](https://helpx.adobe.com/after-effects/tutorials.html)
-- [Max (Jitter) Documentation and tutorials by Cycling '74](https://docs.cycling74.com/max8/tutorials/jitindex)
+- [Max (Jitter/Vizzie) Documentation and tutorials by Cycling '74](https://docs.cycling74.com/max8/tutorials/jitindex)
 - [Inigo Quilez's website](https://iquilezles.org/)
+
+### Videos
+- [Delicious Max Tutorials by dude837](https://www.youtube.com/watch?v=5RYy8Cvgkqk&list=PLD45EDA6F67827497) (Contains Jitter tutorials)
+- [Amazing Max Stuff](https://www.youtube.com/c/AmazingMaxStuff) (Contains Jitter tutorials)
 
 ### Communities & Blogs
 - [Le Collagiste (FR)](https://blog.lecollagiste.com/)
 - [Scanlines](https://scanlines.xyz/)
 - [ShaderToy](https://www.shadertoy.com/)
+- [r/vjing](https://www.reddit.com/r/vjing/)
 
 
 ## Software
