@@ -12,40 +12,65 @@
 ## Resources
 
 This section contains various resources on learning to create and generate visuals.
+
 ### Readings
 - [The Book of Shaders](https://thebookofshaders.com/)
 - [After Effects tutorials by Adobe](https://helpx.adobe.com/after-effects/tutorials.html)
 - [Max (Jitter) Documentation and tutorials by Cycling '74](https://docs.cycling74.com/max8/tutorials/jitindex)
+- [Inigo Quilez's website](https://iquilezles.org/)
 
 ### Communities & Blogs
 - [Le Collagiste (FR)](https://blog.lecollagiste.com/)
 - [Scanlines](https://scanlines.xyz/)
+- [ShaderToy](https://www.shadertoy.com/)
 
 
 ## Software
 
+This section contains various software, programming languages and frameworks to create, generate or control visuals.
+
 ### Editing & Motion Design
 
-- [Blender](https://www.blender.org/)
-- [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/)
-- [Cavalry](https://cavalry.scenegroup.co/)
-- [Adobe After Effects](https://www.adobe.com/products/aftereffects.html)
+- [Blender](https://www.blender.org/) (Windows/Mac/Linux)
+- [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/) (Windows/Mac/Linux)
+- [Cavalry](https://cavalry.scenegroup.co/) (Windows/Mac)
+- [Adobe After Effects](https://www.adobe.com/products/aftereffects.html) (Windows/Mac)
 
 ### VJing software
-- [Resolume (Avenue & Arena)](https://resolume.com/)
-- [VDMX](https://vidvox.net/)
-- [Modul8](http://www.garagecube.com/modul8/)
-- [Arkaos Grand VJ](https://www.arkaos.com/)
-- [CoGe VJ](https://imimot.com/cogevj/)
-- [Synesthesia](https://synesthesia.live/)
-- [Millumin](https://www.millumin.com/v3/)
+- [Resolume (Avenue & Arena)](https://resolume.com/) (Windows/Mac)
+- [VDMX](https://vidvox.net/) (Mac)
+- [Modul8](http://www.garagecube.com/modul8/) (Mac)
+- [Arkaos Grand VJ](https://www.arkaos.com/) (Windows/Mac)
+- [CoGe VJ](https://imimot.com/cogevj/) (Mac)
+- [Synesthesia](https://synesthesia.live/) (Windows/Mac)
+- [Millumin](https://www.millumin.com/v3/) (Mac)
+- [Lumen](https://lumen-app.com/) (Mac)
+- [Quantum VJ HD](https://www.warmplace.ru/soft/qvjhd/) (Windows/Linux/Mac/iOS/Android)
 
 ### Programming languages & frameworks
 
-- [Max (Jitter)](https://cycling74.com/products/max)
-- [openFrameworks](http://example.com)
-- [Processing](https://processing.org/)
-- [vvvv](https://vvvv.org/)
+- [Max (Jitter)](https://cycling74.com/products/max) (Windows/Mac)
+- [Pure Data](https://puredata.info/) (Windows/Mac/Linux)
+- [openFrameworks](https://openframeworks.cc/) (Windows/Mac/Linux)
+- [Processing](https://processing.org/) (Windows/Mac/Linux)
+- [vvvv](https://vvvv.org/) (Windows)
+- [TouchDesigner](https://derivative.ca/) (Windows/Mac)
+- [Hydra](https://github.com/ojack/hydra) (Windows/Mac/Linux)
+
+### Tools
+
+- [TouchOSC](https://hexler.net/touchosc)
+
+## Hardware
+
+### Video synthesizers
+- [LZX Industries](https://lzxindustries.net/)
+- [Critter & Guitari's EYESY](https://www.critterandguitari.com/eyesy)
+
+### Controllers
+
+- [Akai APC 40 mk2](https://www.thomann.de/gb/akai_professional_apc_40_mk2.htm) | Very useful for Resolume and other software
+- [Korg nanoKONTROL 2](https://www.thomann.de/gb/korg_nanokontrol_2_black.htm) | Small and has enough faders & knobs for controls
 
 
 ## Contribute
