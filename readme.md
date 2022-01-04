@@ -1,0 +1,40 @@
+# awesome-vjing [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+> A curated list of awesome things related to vjing and visuals
+
+
+## Contents
+
+- [Resources](#resources)
+- [Software](#software)
+- [Hardware](#hardware)
+
+
+
+## Software
+
+### Editing & Motion Design
+
+- [Blender](https://www.blender.org/)
+- [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/)
+- [Cavalry](https://cavalry.scenegroup.co/)
+- [Adobe After Effects](https://www.adobe.com/products/aftereffects.html)
+
+
+### Programming languages & frameworks
+
+- [Max (Jitter)](https://cycling74.com/products/max)
+- [openFrameworks](http://example.com)
+
+## Resources
+
+This section contains various resources on learning to create and generate visuals.
+
+- [The Book of Shaders](https://thebookofshaders.com/)
+- [After Effects tutorials by Adobe](https://helpx.adobe.com/after-effects/tutorials.html)
+- [Max (Jitter) Documentation and tutorials by Cycling '74](https://docs.cycling74.com/max8/tutorials/jitindex)
+
+
+## Contribute
+
+Contributions welcome! Read the [contribution guidelines](contributing.md) first.
