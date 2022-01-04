@@ -18,6 +18,7 @@ This section contains various resources on learning to create and generate visua
 - [After Effects tutorials by Adobe](https://helpx.adobe.com/after-effects/tutorials.html)
 - [Max (Jitter/Vizzie) Documentation and tutorials by Cycling '74](https://docs.cycling74.com/max8/tutorials/jitindex)
 - [Inigo Quilez's website](https://iquilezles.org/)
+- [Respect Your VJ](http://www.mediateletipos.net/archives/8762)
 
 ### Videos
 - [Delicious Max Tutorials by dude837](https://www.youtube.com/watch?v=5RYy8Cvgkqk&list=PLD45EDA6F67827497) (Contains Jitter tutorials)
@@ -51,6 +52,7 @@ This section contains various software, programming languages and frameworks to 
 - [Millumin](https://www.millumin.com/v3/) (Mac)
 - [Lumen](https://lumen-app.com/) (Mac)
 - [Quantum VJ HD](https://www.warmplace.ru/soft/qvjhd/) (Windows/Linux/Mac/iOS/Android)
+- [Noisedeck](https://noisedeck.app/) (Web)
 
 ### Programming languages & frameworks
 
