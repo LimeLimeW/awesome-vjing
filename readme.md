@@ -64,6 +64,8 @@ This section contains various software, programming languages and frameworks to 
 - [vvvv](https://vvvv.org/) (Windows)
 - [TouchDesigner](https://derivative.ca/) (Windows/Mac)
 - [Hydra](https://github.com/ojack/hydra) (Windows/Mac/Linux)
+- [Cinder](https://www.libcinder.org/) (Windows/Mac)
+- [Nannou](https://nannou.cc/) (Windows/Mac/Linux)
 
 ### Tools
 
