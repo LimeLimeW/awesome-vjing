@@ -6,11 +6,7 @@ project you agree to abide by its terms.
 
 ---
 
-Ensure your pull request adheres to the following guidelines:
-
-- Make sure you take care of this
-- And this as well
-- And don't forget to check this
+Ensure your pull request is relevant regarding visual works or vjing.
 
 Thank you for your suggestions!
 
