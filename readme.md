@@ -18,7 +18,7 @@ This section contains various resources on learning to create and generate visua
 - [After Effects tutorials by Adobe](https://helpx.adobe.com/after-effects/tutorials.html)
 - [Max (Jitter/Vizzie) Documentation and tutorials by Cycling '74](https://docs.cycling74.com/max8/tutorials/jitindex)
 - [Inigo Quilez's website](https://iquilezles.org/)
-- [Respect Your VJ](http://www.mediateletipos.net/archives/8762)
+- [Respect Your VJ](https://github.com/LimeLimeW/awesome-vjing/blob/baefc824ec7a5477f144b37125f63826f00e6fb6/respect-your-vj.md)
 
 ### Videos
 - [Delicious Max Tutorials by dude837](https://www.youtube.com/watch?v=5RYy8Cvgkqk&list=PLD45EDA6F67827497) (Contains Jitter tutorials)
