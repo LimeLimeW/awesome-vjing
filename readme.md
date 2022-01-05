@@ -57,7 +57,7 @@ This section contains various software, programming languages and frameworks to 
 
 ### Programming languages & frameworks
 
-- [Max (Jitter)](https://cycling74.com/products/max) (Windows/Mac)
+- [Max](https://cycling74.com/products/max) (Windows/Mac)
 - [Pure Data](https://puredata.info/) (Windows/Mac/Linux)
 - [openFrameworks](https://openframeworks.cc/) (Windows/Mac/Linux)
 - [Processing](https://processing.org/) (Windows/Mac/Linux)
