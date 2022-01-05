@@ -77,7 +77,7 @@ This section contains various software, programming languages and frameworks to 
 
 ### Controllers
 
-- [Akai APC 40 mk2](https://www.thomann.de/gb/akai_professional_apc_40_mk2.htm) | Very useful for Resolume and other software
+- [Akai APC 40 Mk2](https://www.thomann.de/gb/akai_professional_apc_40_mk2.htm) | Very useful for Resolume and other software
 - [Korg nanoKONTROL 2](https://www.thomann.de/gb/korg_nanokontrol_2_black.htm) | Small and has enough faders & knobs for controls
 
 
