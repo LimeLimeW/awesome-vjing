@@ -71,4 +71,4 @@ A SPECIAL NOTE FOR VJs
 
 Thank you for reading this and supporting the art of VJs!
 
-**This manifesto was found on [this website](http://www.mediateletipos.net/archives/8762), if you are the author, please let me know so we can credit you.**
+**This manifesto was found on [this website](http://www.mediateletipos.net/archives/8762), if you are the author, please let us know so we can credit you.**
