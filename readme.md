@@ -1,6 +1,6 @@
 # awesome-vjing [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of awesome things related to vjing and visuals
+> A curated list of awesome things related to vjing and visual works.
 
 
 ## Contents
