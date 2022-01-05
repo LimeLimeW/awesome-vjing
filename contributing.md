@@ -8,6 +8,8 @@ project you agree to abide by its terms.
 
 Ensure your pull request is relevant regarding visual works or vjing.
 
+Resources regarding pirating are not allowed in this repository.
+
 Thank you for your suggestions!
 
 
