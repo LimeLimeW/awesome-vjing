@@ -23,6 +23,7 @@ This section contains various resources on learning to create and generate visua
 ### Videos
 - [Delicious Max Tutorials by dude837](https://www.youtube.com/watch?v=5RYy8Cvgkqk&list=PLD45EDA6F67827497) (Contains Jitter tutorials)
 - [Amazing Max Stuff](https://www.youtube.com/c/AmazingMaxStuff) (Contains Jitter tutorials)
+- [Resolume official training](https://resolume.com/training)
 
 ### Communities & Blogs
 - [Le Collagiste (FR)](https://blog.lecollagiste.com/)
