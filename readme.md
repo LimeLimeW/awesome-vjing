@@ -67,6 +67,7 @@ This section contains various software, programming languages and frameworks to 
 - [Hydra](https://github.com/ojack/hydra) (Windows/Mac/Linux)
 - [Cinder](https://www.libcinder.org/) (Windows/Mac)
 - [Nannou](https://nannou.cc/) (Windows/Mac/Linux)
+- [Improviz](https://improviz.rumblesan.com/) (Windows/Mac/Linux)
 
 ### Tools
 
