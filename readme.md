@@ -68,6 +68,8 @@ This section contains various software, programming languages and frameworks to 
 - [Cinder](https://www.libcinder.org/) (Windows/Mac)
 - [Nannou](https://nannou.cc/) (Windows/Mac/Linux)
 - [Improviz](https://improviz.rumblesan.com/) (Windows/Mac/Linux)
+- [Bonzomatic](https://github.com/Gargaj/Bonzomatic) (Windows)
+	- [Korg nanoKONTROL2 config](https://gist.github.com/seb776/feacf6776b86b6b02f2dc84f76bba703)
 
 ### Tools
 
