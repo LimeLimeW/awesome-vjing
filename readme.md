@@ -38,42 +38,42 @@ This section contains various software, programming languages and frameworks to 
 
 ### Editing & Motion Design
 
-- [Blender](https://www.blender.org/) (Windows/Mac/Linux)
-- [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/) (Windows/Mac/Linux)
-- [Cavalry](https://cavalry.scenegroup.co/) (Windows/Mac)
-- [Adobe After Effects](https://www.adobe.com/products/aftereffects.html) (Windows/Mac)
+- [Blender](https://www.blender.org/) (Windows/Mac/Linux) (Free/Open Source)
+- [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve/) (Windows/Mac/Linux) (Free/Commercial)
+- [Cavalry](https://cavalry.scenegroup.co/) (Windows/Mac) (Free/Commercial)
+- [Adobe After Effects](https://www.adobe.com/products/aftereffects.html) (Windows/Mac) (Commercial)
 
 ### VJing software
-- [Resolume (Avenue & Arena)](https://resolume.com/) (Windows/Mac)
-- [VDMX](https://vidvox.net/) (Mac)
-- [Modul8](http://www.garagecube.com/modul8/) (Mac)
-- [Arkaos Grand VJ](https://www.arkaos.com/) (Windows/Mac)
-- [CoGe VJ](https://imimot.com/cogevj/) (Mac)
-- [Synesthesia](https://synesthesia.live/) (Windows/Mac)
-- [Millumin](https://www.millumin.com/v3/) (Mac)
-- [Lumen](https://lumen-app.com/) (Mac)
-- [Quantum VJ HD](https://www.warmplace.ru/soft/qvjhd/) (Windows/Linux/Mac/iOS/Android)
-- [Noisedeck](https://noisedeck.app/) (Web)
-- [Analog Not Analog](https://forum.openframeworks.cc/t/analog-not-analog-a-live-coding-system-for-visuals/36846) (openFrameworks)
+- [Resolume (Avenue & Arena)](https://resolume.com/) (Windows/Mac) (Commercial)
+- [VDMX](https://vidvox.net/) (Mac) (Commercial)
+- [Modul8](http://www.garagecube.com/modul8/) (Mac) (Commercial)
+- [Arkaos Grand VJ](https://www.arkaos.com/) (Windows/Mac) (Commercial)
+- [CoGe VJ](https://imimot.com/cogevj/) (Mac) (Commercial)
+- [Synesthesia](https://synesthesia.live/) (Windows/Mac) (Free/Commercial)
+- [Millumin](https://www.millumin.com/v3/) (Mac) (Commercial)
+- [Lumen](https://lumen-app.com/) (Mac) (Commercial)
+- [Quantum VJ HD](https://www.warmplace.ru/soft/qvjhd/) (Windows/Linux/Mac/iOS/Android) (Free)
+- [Noisedeck](https://noisedeck.app/) (Web) (Free/Commercial)
+- [Analog Not Analog](https://forum.openframeworks.cc/t/analog-not-analog-a-live-coding-system-for-visuals/36846) (openFrameworks) (Free/Open Source)
 
 ### Programming languages & frameworks
 
-- [Max](https://cycling74.com/products/max) (Windows/Mac)
-- [Pure Data](https://puredata.info/) (Windows/Mac/Linux)
-- [openFrameworks](https://openframeworks.cc/) (Windows/Mac/Linux)
-- [Processing](https://processing.org/) (Windows/Mac/Linux)
-- [vvvv](https://vvvv.org/) (Windows)
-- [TouchDesigner](https://derivative.ca/) (Windows/Mac)
-- [Hydra](https://github.com/ojack/hydra) (Windows/Mac/Linux)
-- [Cinder](https://www.libcinder.org/) (Windows/Mac)
-- [Nannou](https://nannou.cc/) (Windows/Mac/Linux)
-- [Improviz](https://improviz.rumblesan.com/) (Windows/Mac/Linux)
-- [Bonzomatic](https://github.com/Gargaj/Bonzomatic) (Windows)
+- [Max](https://cycling74.com/products/max) (Windows/Mac) (Commercial)
+- [Pure Data](https://puredata.info/) (Windows/Mac/Linux) (Free/Open Source)
+- [openFrameworks](https://openframeworks.cc/) (Windows/Mac/Linux) (Free/Open Source)
+- [Processing](https://processing.org/) (Windows/Mac/Linux) (Free/Open Source)
+- [vvvv](https://vvvv.org/) (Windows) (Free/Commercial)
+- [TouchDesigner](https://derivative.ca/) (Windows/Mac) (Free/Commercial)
+- [Hydra](https://github.com/ojack/hydra) (Windows/Mac/Linux) (Free/Open Source)
+- [Cinder](https://www.libcinder.org/) (Windows/Mac) (Free/Open Source)
+- [Nannou](https://nannou.cc/) (Windows/Mac/Linux) (Free/Open Source)
+- [Improviz](https://improviz.rumblesan.com/) (Windows/Mac/Linux) (Free/Open Source)
+- [Bonzomatic](https://github.com/Gargaj/Bonzomatic) (Windows) (Free/Open Source)
 	- [Korg nanoKONTROL2 config](https://gist.github.com/seb776/feacf6776b86b6b02f2dc84f76bba703)
 
 ### Tools
 
-- [TouchOSC](https://hexler.net/touchosc)
+- [TouchOSC](https://hexler.net/touchosc) (Commercial)
 
 ## Hardware
 
