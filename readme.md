@@ -55,7 +55,7 @@ This section contains various software, programming languages and frameworks to 
 - [Quantum VJ HD](https://www.warmplace.ru/soft/qvjhd/) (Windows/Linux/Mac/iOS/Android) (Free)
 - [Noisedeck](https://noisedeck.app/) (Web) (Free/Commercial)
 - [Analog Not Analog](https://forum.openframeworks.cc/t/analog-not-analog-a-live-coding-system-for-visuals/36846) (openFrameworks) (Free/Open Source)
-
+- [GoVJ](https://govjapp.com/) (iOS) (Free/Paid subscription)
 ### Programming languages & frameworks
 
 - [Max](https://cycling74.com/products/max) (Windows/Mac) (Commercial)
