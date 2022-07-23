@@ -58,6 +58,7 @@ This section contains various software, programming languages and frameworks to 
 - [GoVJ](https://govjapp.com/) (iOS) (Free/Paid subscription)
 ### Programming languages & frameworks
 
+- [Notch Builder](https://www.notch.one/) (Windows) (Commercial)
 - [Max](https://cycling74.com/products/max) (Windows/Mac) (Commercial)
 - [Pure Data](https://puredata.info/) (Windows/Mac/Linux) (Free/Open Source)
 - [openFrameworks](https://openframeworks.cc/) (Windows/Mac/Linux) (Free/Open Source)
