@@ -14,6 +14,7 @@
 This section contains various resources on learning to create and generate visuals.
 
 ### Readings
+
 - [The Book of Shaders](https://thebookofshaders.com/)
 - [After Effects tutorials by Adobe](https://helpx.adobe.com/after-effects/tutorials.html)
 - [Max (Jitter/Vizzie) Documentation and tutorials by Cycling '74](https://docs.cycling74.com/max8/tutorials/jitindex)
@@ -21,11 +22,13 @@ This section contains various resources on learning to create and generate visua
 - [Respect Your VJ](https://github.com/LimeLimeW/awesome-vjing/blob/baefc824ec7a5477f144b37125f63826f00e6fb6/respect-your-vj.md)
 
 ### Videos
+
 - [Delicious Max Tutorials by dude837](https://www.youtube.com/watch?v=5RYy8Cvgkqk&list=PLD45EDA6F67827497) (Contains Jitter tutorials)
 - [Amazing Max Stuff](https://www.youtube.com/c/AmazingMaxStuff) (Contains Jitter tutorials)
 - [Resolume official training](https://resolume.com/training)
 
 ### Communities & Blogs
+
 - [Le Collagiste (FR)](https://blog.lecollagiste.com/)
 - [Scanlines](https://scanlines.xyz/)
 - [ShaderToy](https://www.shadertoy.com/)
@@ -44,6 +47,7 @@ This section contains various software, programming languages and frameworks to 
 - [Adobe After Effects](https://www.adobe.com/products/aftereffects.html) (Windows/Mac) (Commercial)
 
 ### VJing software
+
 - [Resolume (Avenue & Arena)](https://resolume.com/) (Windows/Mac) (Commercial)
 - [VDMX](https://vidvox.net/) (Mac) (Commercial)
 - [Modul8](http://www.garagecube.com/modul8/) (Mac) (Commercial)
@@ -56,6 +60,8 @@ This section contains various software, programming languages and frameworks to 
 - [Noisedeck](https://noisedeck.app/) (Web) (Free/Commercial)
 - [Analog Not Analog](https://forum.openframeworks.cc/t/analog-not-analog-a-live-coding-system-for-visuals/36846) (openFrameworks) (Free/Open Source)
 - [GoVJ](https://govjapp.com/) (iOS) (Free/Paid subscription)
+- [modV](https://modv.vcync.gl/) (Windows/Linux/Mac) (Free & Open Source)
+
 ### Programming languages & frameworks
 
 - [Notch Builder](https://www.notch.one/) (Windows) (Commercial)
