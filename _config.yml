@@ -5,6 +5,6 @@ relative_links:
   collections: true
 include:
   - README.md
-  - CODE_OF_CONDUCT.md
+  - CODE-OF-CONDUCT.md
   - CONTRIBUTING.md
-  - RESPECT_YOUR_VJ.md
+  - RESPECT-YOUR-VJ.md
