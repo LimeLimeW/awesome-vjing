@@ -7,4 +7,6 @@ include:
   - README.md
   - CODE_OF_CONDUCT.md
   - CONTRIBUTING.md
+  - LICENSE.md
   - RESPECT_YOUR_VJ.md
+  - PULL_REQUEST_GUIDELINES.md
