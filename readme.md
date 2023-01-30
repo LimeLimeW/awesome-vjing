@@ -34,7 +34,7 @@ This section contains various resources on learning to create and generate visua
 - [Scanlines](https://scanlines.xyz/) Great forum for visualists
 - [ShaderToy](https://www.shadertoy.com/) Shader/GLSL focused community website with embedded shader editioh/viewer
 - [r/vjing](https://www.reddit.com/r/vjing/) Subreddit dedicated to VJing
-- [Sean Bowes Youtube channel](https://www.youtube.com/@SeanBowes) Great tutorials and VJing industry insighs
+- [Sean Bowes Youtube channel](https://www.youtube.com/@SeanBowes) Great tutorials and VJing industry insights
 
 
 ## Software
