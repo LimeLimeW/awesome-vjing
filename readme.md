@@ -27,12 +27,14 @@ This section contains various resources on learning to create and generate visua
 - [Amazing Max Stuff](https://www.youtube.com/c/AmazingMaxStuff) (Contains Jitter tutorials)
 - [Resolume official training](https://resolume.com/training)
 
-### Communities & Blogs
+### Communities, blogs and video channels
 
-- [Le Collagiste (FR)](https://blog.lecollagiste.com/)
-- [Scanlines](https://scanlines.xyz/)
-- [ShaderToy](https://www.shadertoy.com/)
-- [r/vjing](https://www.reddit.com/r/vjing/)
+- [Dephased Discord server](https://discord.gg/rxFYVQAgmG) VJing and visuals-focused Discord server
+- [Le Collagiste (FR)](https://blog.lecollagiste.com/) French blog dedicated to vjing
+- [Scanlines](https://scanlines.xyz/) Great forum for visualists
+- [ShaderToy](https://www.shadertoy.com/) Shader/GLSL focused community website with embedded shader editioh/viewer
+- [r/vjing](https://www.reddit.com/r/vjing/) Subreddit dedicated to VJing
+- [Sean Bowes Youtube channel](https://www.youtube.com/@SeanBowes) Great tutorials and VJing industry insighs
 
 
 ## Software
