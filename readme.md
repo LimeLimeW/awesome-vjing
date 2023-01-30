@@ -61,6 +61,7 @@ This section contains various software, programming languages and frameworks to 
 - [Analog Not Analog](https://forum.openframeworks.cc/t/analog-not-analog-a-live-coding-system-for-visuals/36846) (openFrameworks) (Free/Open Source)
 - [GoVJ](https://govjapp.com/) (iOS) (Free/Paid subscription)
 - [modV](https://modv.vcync.gl/) (Windows/Linux/Mac) (Free & Open Source)
+- [Magic Music Visuals](https://magicmusicvisuals.com/) (Windows/Mac) (Free & Paid) 
 
 ### Programming languages & frameworks
 
@@ -90,8 +91,9 @@ This section contains various software, programming languages and frameworks to 
 
 ### Controllers
 
-- [Akai APC 40 Mk2](https://www.thomann.de/gb/akai_professional_apc_40_mk2.htm) | Very useful for Resolume and other software
-- [Korg nanoKONTROL 2](https://www.thomann.de/gb/korg_nanokontrol_2_black.htm) | Small and has enough faders & knobs for controls
+- [Akai APC 40 Mk2](https://www.thomann.de/gb/akai_professional_apc_40_mk2.htm) | Very useful for Resolume and other software, native Resolume layout
+- [Korg nanoKONTROL 2](https://www.thomann.de/gb/korg_nanokontrol_2_black.htm) | Small and has enough faders & knobs for controls, native Resolume layout
+- [Akai APC Mini Mk2](https://www.thomann.de/gb/akai_professional_apc_mini_mk2.htm) | Small and has enough pads and faders, native Resolume layout
 
 
 ## Contribute
