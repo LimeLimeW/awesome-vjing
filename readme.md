@@ -91,6 +91,7 @@ This section contains various software, programming languages and frameworks to 
 ### Video synthesizers
 - [LZX Industries](https://lzxindustries.net/)
 - [Critter & Guitari's EYESY](https://www.critterandguitari.com/eyesy)
+- [Syntonie](https://syntonie.fr/)
 
 ### Controllers
 
