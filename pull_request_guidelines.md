@@ -6,5 +6,3 @@
 
 * **What kind of change does this PR introduce?** (Software, tool, readings, ...)
 
-* **Other information**:
-
