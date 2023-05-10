@@ -35,6 +35,7 @@ This section contains various resources on learning to create and generate visua
 - [ShaderToy](https://www.shadertoy.com/) Shader/GLSL focused community website with embedded shader editioh/viewer
 - [r/vjing](https://www.reddit.com/r/vjing/) Subreddit dedicated to VJing
 - [Sean Bowes Youtube channel](https://www.youtube.com/@SeanBowes) Great tutorials and VJing industry insights
+- [ISF.video shaders database](https://editor.isf.video/shaders) Contains shaders made by the community
 
 
 ## Software
