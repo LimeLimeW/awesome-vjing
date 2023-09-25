@@ -32,7 +32,7 @@ This section contains various resources on learning to create and generate visua
 - [Dephased Discord server](https://discord.gg/rxFYVQAgmG) VJing and visuals-focused Discord server
 - [Le Collagiste (FR)](https://blog.lecollagiste.com/) French blog dedicated to vjing
 - [Scanlines](https://scanlines.xyz/) Great forum for visualists
-- [ShaderToy](https://www.shadertoy.com/) Shader/GLSL focused community website with embedded shader editioh/viewer
+- [ShaderToy](https://www.shadertoy.com/) Shader/GLSL focused community website with embedded shader editor/viewer
 - [r/vjing](https://www.reddit.com/r/vjing/) Subreddit dedicated to VJing
 - [Sean Bowes Youtube channel](https://www.youtube.com/@SeanBowes) Great tutorials and VJing industry insights
 - [ISF.video shaders database](https://editor.isf.video/shaders) Contains shaders made by the community
