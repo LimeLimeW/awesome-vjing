@@ -76,6 +76,7 @@ This section contains various software, programming languages and frameworks to 
 - [Processing](https://processing.org/) (Windows/Mac/Linux) (Free/Open Source)
 - [vvvv](https://vvvv.org/) (Windows) (Free/Commercial)
 - [TouchDesigner](https://derivative.ca/) (Windows/Mac) (Free/Commercial)
+- [Tooll3](https://github.com/tooll3/t3) (Windows) (Free/Open Source)
 - [Hydra](https://github.com/ojack/hydra) (Windows/Mac/Linux) (Free/Open Source)
 - [Cinder](https://www.libcinder.org/) (Windows/Mac) (Free/Open Source)
 - [Nannou](https://nannou.cc/) (Windows/Mac/Linux) (Free/Open Source)
