@@ -80,7 +80,7 @@ This section contains various software, programming languages and frameworks to 
 - [Hydra](https://github.com/ojack/hydra) (Windows/Mac/Linux) (Free/Open Source)
 - [Cinder](https://www.libcinder.org/) (Windows/Mac) (Free/Open Source)
 - [Nannou](https://nannou.cc/) (Windows/Mac/Linux) (Free/Open Source)
-- [Improviz](https://improviz.rumblesan.com/) (Windows/Mac/Linux) (Free/Open Source)
+- [Improviz](https://improviz.rumblesan.com/) (DEPRECATED) (Windows/Mac/Linux) (Free/Open Source) 
 - [Bonzomatic](https://github.com/Gargaj/Bonzomatic) (Windows) (Free/Open Source)
 	- [Korg nanoKONTROL2 config](https://gist.github.com/seb776/feacf6776b86b6b02f2dc84f76bba703)
 
