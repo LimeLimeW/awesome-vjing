@@ -20,6 +20,7 @@ This section contains various resources on learning to create and generate visua
 - [Max (Jitter/Vizzie) Documentation and tutorials by Cycling '74](https://docs.cycling74.com/max8/tutorials/jitindex)
 - [Inigo Quilez's website](https://iquilezles.org/)
 - [Respect Your VJ](https://github.com/LimeLimeW/awesome-vjing/blob/baefc824ec7a5477f144b37125f63826f00e6fb6/respect-your-vj.md)
+- [Vjing WTF is it by David Lublin](https://davidlubl.in/blog/2014/vjing-wtf-is-it)
 
 ### Videos
 
@@ -36,6 +37,8 @@ This section contains various resources on learning to create and generate visua
 - [r/vjing](https://www.reddit.com/r/vjing/) Subreddit dedicated to VJing
 - [Sean Bowes Youtube channel](https://www.youtube.com/@SeanBowes) Great tutorials and VJing industry insights
 - [ISF.video shaders database](https://editor.isf.video/shaders) Contains shaders made by the community
+- [VDMX Tutorials](https://vdmx.vidvox.net/): A wide range of VDMX and VJ related tutorials.
+- [ProjectileObjects tutorials](https://projectileobjects.com/category/tutorials/). Various hardware/software tutorials with VDMX, Madmapper, and QLab.
 
 
 ## Software
@@ -86,7 +89,33 @@ This section contains various software, programming languages and frameworks to 
 
 ### Tools
 
-- [TouchOSC](https://hexler.net/touchosc) (Commercial)
+- [TouchOSC](https://hexler.net/touchosc) (Windows/Mac/Linux/iOS/Android)(Commercial)
+- [OSC Pilot](https://oscpilot.com/) (Windows/Mac/iOSWindows/Mac/iOS)(Commercial)
+- [Osculator](https://osculator.net/) (Mac)(Commercial)
+- [Vezer](https://imimot.com/vezer/) (Mac)(Commercial)
+- [Mitti](https://imimot.com/mitti/) (Mac)(Commercial)
+- [Syphon Virtual Camera](https://troikatronix.com/add-ons/syphon-virtual-webcam/) (Mac)(Free)
+- [AVF Batch Exporter](https://docs.vidvox.net/freebies_avf_batch_exporter.html) (Mac)(Free)
+- [ISF Editor](https://docs.vidvox.net/freebies_isf_editor.html) (Windows/Mac)(Free)
+- [Project Milk Syphon](https://docs.vidvox.net/freebies_project_milk_syphon.html) (Mac)(Free)
+- [GifToSyphon](https://docs.vidvox.net/freebies_gif_to_syphon.html) (Mac)(Free)
+- [Black Syphon](https://docs.vidvox.net/freebies_black_syphon.html) (Mac)(Free)
+- [NDI Syphon](https://docs.vidvox.net/freebies_ndi_syphon.html) (Mac)(Free)
+- [OSCQuery Browser](https://docs.vidvox.net/freebies_oscquery_browser.html) (Mac)(Free)
+- [OSCQuery Helper](https://docs.vidvox.net/freebies_oscquery_helper.html) (Mac)(Free)
+- [MIDI OSCQuery Helper](https://docs.vidvox.net/freebies_midi_oscquery_helper.html) (Mac)(Free)
+- [WaveClock](https://wavesum.net/products.html) (Mac)(Commercial)
+- [Loopback](https://rogueamoeba.com/loopback/) (Mac)(Commercial)
+- [BlackHole](https://existential.audio/blackhole/) (Mac)(Commercial)
+
+### Projection Mapping:
+
+- [HapMap](https://gethapmap.com/en/) (Windows/Mac)(Commercial)
+- [MadMapper](https://madmapper.com/) (Windows/Mac)(Commercial)
+- [Mapio](https://visution.com/) (Windows/Mac)(Commercial)
+- [QLab](https://qlab.app/) (Mac)(Commercial)
+- [HeavyM](https://www.heavym.net/) (Windows/Mac)(Commercial)
+- [VPT 8](https://hcgilje.wordpress.com/vpt/) (Windows/Mac)(Free)
 
 ## Hardware
 
@@ -100,6 +129,11 @@ This section contains various software, programming languages and frameworks to 
 - [Akai APC 40 Mk2](https://www.thomann.de/gb/akai_professional_apc_40_mk2.htm) | Very useful for Resolume and other software, native Resolume layout
 - [Korg nanoKONTROL 2](https://www.thomann.de/gb/korg_nanokontrol_2_black.htm) | Small and has enough faders & knobs for controls, native Resolume layout
 - [Akai APC Mini Mk2](https://www.thomann.de/gb/akai_professional_apc_mini_mk2.htm) | Small and has enough pads and faders, native Resolume layout
+- [Livid Instruments](https://lividinstruments.com/) | Legendary, no longer in production.
+- [FaderFox](https://faderfox.de/) | Unique and compact MIDI controllers.
+- [Special Waves](https://special-waves.com/) | Modular MIDI Controllers.
+- [InTech Studio GRID](https://intech.studio/) | Modular MIDI Controllers.
+- [Hercules MIDI](https://www.hercules.com/) | Inexpensive controllers for a wide range of uses.
 
 
 ## Contribute
