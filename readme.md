@@ -69,7 +69,7 @@ This section contains various software, programming languages and frameworks to 
 - [modV](https://modv.vcync.gl/) (Windows/Linux/Mac) (Free & Open Source)
 - [Magic Music Visuals](https://magicmusicvisuals.com/) (Windows/Mac) (Free & Paid) 
 
-### Programming languages & frameworks
+### Programming languages, frameworks and VFX tools
 
 - [Notch Builder](https://www.notch.one/) (Windows) (Commercial)
 - [ossia score](https://ossia.io/) (Multi-platform) (Free/Open Source)
@@ -77,6 +77,7 @@ This section contains various software, programming languages and frameworks to 
 - [Pure Data](https://puredata.info/) (Windows/Mac/Linux) (Free/Open Source)
 - [openFrameworks](https://openframeworks.cc/) (Windows/Mac/Linux) (Free/Open Source)
 - [Processing](https://processing.org/) (Windows/Mac/Linux) (Free/Open Source)
+- [Pixel Composer](https://makham.itch.io/pixel-composer) (Windows/Mac) (Commercial)
 - [vvvv](https://vvvv.org/) (Windows) (Free/Commercial)
 - [TouchDesigner](https://derivative.ca/) (Windows/Mac) (Free/Commercial)
 - [Tooll3](https://github.com/tooll3/t3) (Windows) (Free/Open Source)
