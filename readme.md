@@ -3,6 +3,9 @@
 > A curated list of awesome things related to vjing and visual works.
 
 
+# THIS LIST HAS MOVED TO [MY WEBSITE](https://l68k.com/things/vjing) AND THIS REPOSITORY IS NOW ARCHIVED.
+
+
 ## Contents
 
 - [Resources](#resources)
